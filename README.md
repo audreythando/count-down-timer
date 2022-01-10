@@ -1,6 +1,6 @@
 COUNT-DOWN TIMER
 
-Demo : 
+Demo : https://audreythando.github.io/count-down-timer/
 
 Stack : 
 HTML + CSS 
